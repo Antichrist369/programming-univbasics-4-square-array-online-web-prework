@@ -1,5 +1,5 @@
 def square_array(array)
-   while array 
+   while array * 2
      p array 
      return array 
    end 
