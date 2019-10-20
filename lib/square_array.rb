@@ -1,6 +1,6 @@
 def square_array(array)
-  new_array = [ *2 ]
-   while array + new_array
+   while array do 
+     {|a| a**2} 
      p array 
      return array 
    end 
