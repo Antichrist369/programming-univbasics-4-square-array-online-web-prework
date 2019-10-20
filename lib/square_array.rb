@@ -1,3 +1,4 @@
 def square_array(array)
-  Math.sqrt(array)
+ while  Math.sqrt(array) do 
+   
 end
